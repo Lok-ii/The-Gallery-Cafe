@@ -21,7 +21,7 @@ In this second screenshot :-
 
     Then comes the "p" tag (paragraph tag), which is used to write paragraphs or any kind of text or lines. There is one more tag used inside the paragraph tag, which is the "strong" tag, it is used for to bold the text and make it important, it also helps improve the SEO rating of the webpage.
 
-    After that, two "a" tag are used, which is the anchor tag and it is used to define the hyperlink. we can wrap any text inside the anchor tag to make it work as a link and the "href" attribute inside the tag holds the url of the page the link goes to.
+    After that, two "a" tag are used, which is the anchor tag and it is used to define the hyperlink. we can wrap any text inside the anchor tag to make it work as a link and the "href" attribute inside the tag holds the url of the page the link goes to. Here I have used '#' for the href attribute because I don't want to redirect to any other link, so even after someone clicks on the hyperlink, nothing will happen and they will stay on the same page.
     
     Again there's the "hr" tag which is used to basically draw a separator or a horizontal line.
 
